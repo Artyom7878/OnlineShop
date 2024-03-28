@@ -1,6 +1,0 @@
-# Игнорировать html файлы
-*.html
-# Но конкретно article.html не игнорировать
-!article.html
-
-
