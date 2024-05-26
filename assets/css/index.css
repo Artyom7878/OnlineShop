@@ -1,5 +1,5 @@
   @import "style.css";
   @import "fonts.css";
-  @import "../content/content.css";
-  @import "../text/text.css";
-  @import "../footer/footer.css";
+  @import "../css/content/content.css";
+  @import "../css/text/text.css";
+  @import "../css/footer/footer.css";
