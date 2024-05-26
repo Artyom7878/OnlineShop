@@ -1,0 +1,36 @@
+.footer {
+  display: flow-root;
+}
+
+.footer__pointer {
+  display: inline;
+  position: relative;
+  top: 5px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.footer__link {
+  padding-left: 30px;
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.footer__reference {
+  background-image: url(../favicons/pointer.svg);
+  color: #2d2d2d;
+  text-decoration: none;
+}
+
+.footer__reference:hover {
+  color: rgb(78, 157, 177);
+}
+
+.footer__author {
+  float: right;
+  display: inline;
+  margin: 0;
+  font-size: 22px;
+  font-weight: 400;
+}
